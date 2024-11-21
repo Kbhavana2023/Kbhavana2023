@@ -27,7 +27,6 @@ I'm **Bhavana Konda**, a passionate tech enthusiast and problem-solver. My journ
 
 ## 💡 Technical Skills:
 | **Languages & Tools**   
-|--------------------------
 | HTML & CSS              
 | Python               
 | MySQL                  
@@ -43,4 +42,14 @@ I'm **Bhavana Konda**, a passionate tech enthusiast and problem-solver. My journ
 
 ---
 
-## 🌟 Fun
+##  Contact me
+### Get in Touch
+### Feel Free to contact me :)
+
+Name 
+Bhavana Konda 
+Address 
+Guntur, India 
+Email 
+kbhavanareddy521@gmail.com 
+
