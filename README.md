@@ -1,10 +1,10 @@
 #  Bhavana Konda | Software Devloper
 
 ### Hey, I'M
-Bhavana 
-SoftWare Engineer
+### Bhavana 
+### SoftWare Engineer
 
-I am a graduate student at VIT - AP
+### I am a graduate student at VIT - AP
 
 I'm **Bhavana Konda**, a passionate tech enthusiast and problem-solver. My journey in the tech world is fueled by curiosity, innovation, and a drive to create impactful solutions. I specialize in **Data Science**, **Web Technology**, **Application Development**, and **Robotic Process Automation**.
 
