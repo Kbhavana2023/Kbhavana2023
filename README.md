@@ -46,10 +46,7 @@ I'm **Bhavana Konda**, a passionate tech enthusiast and problem-solver. My journ
 ### Get in Touch
 ### Feel Free to contact me :)
 
-Name 
-Bhavana Konda 
-Address 
-Guntur, India 
-Email 
-kbhavanareddy521@gmail.com 
+## Name  Bhavana Konda 
+## Address Guntur, India 
+## Email  kbhavanareddy521@gmail.com 
 
