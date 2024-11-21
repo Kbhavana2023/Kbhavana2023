@@ -17,18 +17,8 @@ I'm **Bhavana Konda**, a passionate tech enthusiast and problem-solver. My journ
 > Bridging the gap between workers and employers through an Android app with real-time features.
 
 ### 🔗 **Blockchain-based Web Application**
-> Devloped during my internship at Candid Techno Solutions
 > Designed to enhance predictive models and ensure secure transactions using blockchain.
 
-### 🌐 **SEO-Driven Content Strategy**
-> Achieved a **40% traffic increase** for a tech blog using **keyword optimization** and **content marketing**.
-
-### 📊 **Wildlife Intrusion Detection**
-> Developed a hybrid algorithm to improve task accuracy and efficiency. Published by IEEE.
-
-### 🤖 **Automation Projects**ne industrial processes.
-
-> Built an **Automated Line Tracker Bot** to streamli
 ---
 
 ## 💡 Technical Skills:
