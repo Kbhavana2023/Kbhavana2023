@@ -22,16 +22,16 @@ I'm **Bhavana Konda**, a passionate tech enthusiast and problem-solver. My journ
 ---
 
 ## 💡 Technical Skills:
-| **Languages & Tools**   | Proficiency |
-|--------------------------|-------------|
-| HTML & CSS              | ⭐⭐⭐⭐⭐      |
-| Python                  | ⭐⭐⭐⭐⭐      |
-| MySQL                   | ⭐⭐⭐⭐⭐      |
-| Java, Spring Boot       | ⭐⭐⭐⭐⭐      |
-| R Programming           | ⭐⭐⭐⭐⭐      |
-| Android Studio          | ⭐⭐⭐⭐⭐      |
-| UiPath                  | ⭐⭐⭐⭐⭐ |
-| Automation Anywhere  |     ⭐⭐⭐⭐⭐ 
+| **Languages & Tools**   
+|--------------------------
+| HTML & CSS              
+| Python               
+| MySQL                  
+| Java, Spring Boot   
+| R Programming           
+| Android Studio          
+| UiPath                  
+| Automation Anywhere      
 
 
 - **Game Engines**: Unity, Unreal, Cocos
